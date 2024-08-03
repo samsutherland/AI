@@ -21,6 +21,6 @@ Graph RAG:
 <div>
 My LinkedIn: 
 
-<p><a href="https://samsutherland.com">https://samsutherland.com</a></p>
+<p><a href="http://samsutherland.com">http://samsutherland.com</a></p>
 
 </div>
