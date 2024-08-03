@@ -2,7 +2,8 @@
 
 <div>
 Knowledge Graphs: 
-  [https://www.turing.ac.uk/research/interest-groups/knowledge-graphs](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs)
+<p><a href="https://www.turing.ac.uk/research/interest-groups/knowledge-graphs" title="Knowledge Graphs Title">[link](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs)</a></p>
+
 </div>
 <div>
 Baseline RAG: 
