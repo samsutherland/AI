@@ -1,4 +1,4 @@
-# AI
+# XAM x JR x Canva - Exploring AI: Strategies, Tools, and GraphRAG 
 
 <div>
 Knowledge Graphs: 
@@ -16,5 +16,11 @@ Graph RAG:
 
 <p><a href="https://microsoft.github.io/graphrag">https://microsoft.github.io/graphrag</a></p>
 
-  
+</div>
+
+<div>
+My LinkedIn: 
+
+<p><a href="https://samsutherland.com">https://samsutherland.com</a></p>
+
 </div>
