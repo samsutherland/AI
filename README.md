@@ -1,4 +1,6 @@
-# XAM x JR x Canva - Exploring AI: Strategies, Tools, and GraphRAG 
+# Exploring AI: Strategies, Tools, and GraphRAG 
+#
+# GraphRAG Resources
 
 <div>
 Knowledge Graphs: 
