@@ -1,5 +1,5 @@
 # Exploring AI: Strategies, Tools, and GraphRAG 
-#
+
 # GraphRAG Resources
 
 <div>
