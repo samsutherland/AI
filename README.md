@@ -13,6 +13,14 @@ Baseline RAG:
 <p><a href="https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview">https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview</a></p>
 
 </div>
+
+<div>
+Anything LLM: 
+
+<p><a href="https://github.com/Mintplex-Labs/anything-llm">https://github.com/Mintplex-Labs/anything-llm</a></p>
+
+</div>
+
 <div>
 Graph RAG: 
 
