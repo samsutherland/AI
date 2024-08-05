@@ -29,6 +29,14 @@ Graph RAG:
 </div>
 
 <div>
+Original Graph RAG paper: 
+
+<p><a href="https://arxiv.org/pdf/2404.16130">https://arxiv.org/pdf/2404.16130</a></p>
+
+</div>
+
+
+<div>
 My LinkedIn: 
 
 <p><a href="http://samsutherland.com">http://samsutherland.com</a></p>
